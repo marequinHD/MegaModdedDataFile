@@ -1,0 +1,22 @@
+{
+    "maintenance": false,
+    "maintenance_message": "Le server est en maintenance.<br>Merci de bien vouloir essayer ultérieurement.",
+    "online": true,
+    "client_id": "",
+    "game_version": "1.12.2",
+    "verify": false,
+    "java": true,
+    "game_args": [],
+    "dataDirectory": "MegaModded",
+    "ignored": ["crash-reports", "logs", "resourcepacks", "resources", "saves", "shaderpacks", "options.txt", "optionsof.txt"],
+    "loader": {
+        "type": "forge",
+        "build": "latest",
+        "enable": true
+    },
+    "status": {
+        "nameServer": "MegaModded group",
+        "ip": "g01.mcheberg.fr",
+        "port": 30164
+    }
+}
